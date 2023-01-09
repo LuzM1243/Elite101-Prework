@@ -6,3 +6,5 @@ it worked
 I used python document for date time
 used  https://www.tutorialspoint.com/How-to-get-formatted-date-and-time-in-Python for time
 and https://stackoverflow.com/questions/30071886/how-to-get-current-time-in-python-and-break-up-into-year-month-day-hour-minu
+
+Lesson 1
